@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="050d2009-c97b-4381-9284-b2a8aacec9a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Java部分答案/Java部分-6异常答案.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java部分答案/Java部分-06异常答案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java部分答案/Java部分-7 NIO_BIO答案.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java部分答案/Java部分-07 NIO_BIO答案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java部分答案/Java部分-8集合(容器)答案.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java部分答案/Java部分-08集合(容器)答案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java部分答案/Java部分-9线程答案.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java部分答案/Java部分-09线程答案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java部分答案/Java部分1~2答案.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java部分答案/Java部分01~02答案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java部分答案/Java部分3~5答案.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java部分答案/Java部分03~05答案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用的库部分/常用的库部分-3 依赖注入.md" beforeDir="false" afterPath="$PROJECT_DIR$/常用的库部分/常用的库部分03-依赖注入.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用的库部分/常用的库部分-4 图片加载.md" beforeDir="false" afterPath="$PROJECT_DIR$/常用的库部分/常用的库部分04-图片加载.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用的库部分/常用的库部分-5 数据库.md" beforeDir="false" afterPath="$PROJECT_DIR$/常用的库部分/常用的库部分05-数据库.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用的库部分/常用的库部分-6 其它.md" beforeDir="false" afterPath="$PROJECT_DIR$/常用的库部分/常用的库部分06-其它.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用的库部分/常用的库部分1-异步通信.md" beforeDir="false" afterPath="$PROJECT_DIR$/常用的库部分/常用的库部分01-异步通信.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用的库部分/常用的库部分2-网络.md" beforeDir="false" afterPath="$PROJECT_DIR$/常用的库部分/常用的库部分02-网络.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java部分答案/Java部分01~02答案.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java部分答案/Java部分-01~02答案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java部分答案/Java部分03~05答案.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java部分答案/Java部分-03~05答案.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615185104499</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rename">
+      <created>1615185298589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615185298589</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,13 +120,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="23" width="874" height="824" key="CommitChangelistDialog2" timestamp="1615185104391">
+    <state x="283" y="23" width="874" height="824" key="CommitChangelistDialog2" timestamp="1615185298476">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state x="283" y="23" width="874" height="824" key="CommitChangelistDialog2/0.23.1440.824@0.23.1440.824" timestamp="1615185104391" />
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1615185106869">
+    <state x="283" y="23" width="874" height="824" key="CommitChangelistDialog2/0.23.1440.824@0.23.1440.824" timestamp="1615185298476" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1615185450886">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.824@0.23.1440.824" timestamp="1615185106869" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.824@0.23.1440.824" timestamp="1615185450886" />
   </component>
 </project>
