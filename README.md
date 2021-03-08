@@ -1,5 +1,5 @@
 
-# Android面试题集(2019-04-04总结)
+# Android面试题集最全大纲
 
 > &emsp;&emsp;一份Android面试题集，适应于实习 & 初级工程师 & 中级工程师，高级工程师勉强吧。笔者不提供答案，但是会提供学习链接，旨在能帮助广大Android学习者找到心仪的Offer,文章底部是笔者收集的一些有关面试的文章链接，希望Android求职者认真研读，准备面试，并顺利找到Offer。如果你是Android学习者，请订阅笔者的[Android知识体系总结(全方面覆盖Android知识结构，面试&进阶)](https://blog.csdn.net/ClAndEllen/article/details/79257663)，本篇文章中的问题可以从文章中找到答案，谢谢支持。查阅答案，请star项目[AndroidFace](https://github.com/Ellen2018/AndroidFace)  
 > 
